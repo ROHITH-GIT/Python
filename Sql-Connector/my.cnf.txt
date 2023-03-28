@@ -1,0 +1,6 @@
+[client]
+user=oscarval_user
+password=learnsql123
+host=oscarvalles.com
+database=oscarval_sql_course
+port=3306
